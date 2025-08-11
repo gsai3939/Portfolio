@@ -56,7 +56,7 @@ export default function SmartBank() {
         {/* Call to Action */}
         <div className="text-center mt-12">
           <a
-            href="https://github.com/gsai3939"
+            href="https://github.com/gsai3939/smartbank"
             target="_blank"
             className="inline-block bg-gradient-to-r from-blue-600 via-black to-red-600 px-6 py-3 rounded-full text-white font-semibold hover:scale-105 transition-transform"
           >
